@@ -4,8 +4,8 @@
 *  No part of this assignment has been copied manually or electronically from any other source
 *  (including web sites) or distributed to other students.
 * 
-*  Name: ______________________ Student ID: ______________ Date: ________________
-*  Vercel Link: _______________________________________________________________
+*  Name: Komalpreet Kaur Gill  Student ID: 112767223  Date: 13-01-2025
+*  Vercel Link: https://web-422-plum.vercel.app/
 *
 ********************************************************************************/
 
